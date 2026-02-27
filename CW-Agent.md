@@ -15,6 +15,9 @@
    - Examples: sending notifications, cpu utilization exceeds --%
 
 ---
+## lanch an Ec2 instance and attach IAM role to it with policy
+<img width="1233" height="581" alt="Screenshot 2026-02-27 at 12 43 14 PM" src="https://github.com/user-attachments/assets/b279862c-5f0e-47ae-8442-faca53d5a363" />
+
 ## cloudwatch 
 ## cloudwatch agent 
 Step 1: Download and install the CloudWatch agent 
