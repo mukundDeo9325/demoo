@@ -35,6 +35,8 @@ cd amazon-cloudwatch-agent/
 cd bin/
 ./amazon-cloudwatch-agent-config-wizard
 ```
+<img width="1470" height="956" alt="Screenshot 2026-02-27 at 12 45 32 PM" src="https://github.com/user-attachments/assets/9a7bc8f1-e74d-42f0-9bae-8095cb6a916b" />
+
 - Log file path:
 ```
 /var/1og/syslogs
@@ -52,6 +54,8 @@ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl -a fetch-c
 sudo systemctl status amazon-cloudwatch-agent
 ```
 
+
+<img width="1470" height="956" alt="Screenshot 2026-02-27 at 12 49 15 PM" src="https://github.com/user-attachments/assets/18cabf39-ce56-4907-9f50-68c8a22a0868" />
 
 
 
